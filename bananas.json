@@ -6,7 +6,7 @@
     {
       "type": "rprompt",
       "alignment": "right",
-      "overflow": "break",
+      "overflow": "hide",
       "segments": [
         {
           "type": "time",
